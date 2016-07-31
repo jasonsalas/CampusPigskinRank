@@ -21,7 +21,8 @@ This project uses the [public dataset](http://thenationalchampionshipissue.blogs
 
 However, I'm prematurely skeptical about the ability to generate such features, seeing as how datasets from other more static domains like the [Netflix dataset](https://gist.github.com/janisozaur/3192952) or the [MovieLens dataset](http://grouplens.org/datasets/movielens/) for films have more reliable attributes than just a team winning.
 
+### Framework
+The code is built on top of Google's [TensorFlow](https://www.tensorflow.org/) machine learning framework, and written in Python.
 
-I'm hoping that the model to produce reliable, replicable and stable results to form the foundation of my doctoral thesis in machine learning.
 ___
 _I'm an [author](https://www.amazon.com/Designing-Developing-Google-Glass-Differently/dp/1491946458/), [sportscaster](https://plus.google.com/+JasonSalas/posts/UCHTyZLJ2y9), and product manager in Guam. I know software, sports, movies, music, the 80s...and not much else. Find him on [Twitter](https://twitter.com/jasonsalas), [Facebook](https://www.facebook.com/jasonsalas) and [LinkedIn](https://www.linkedin.com/in/jasonsalas671)_
