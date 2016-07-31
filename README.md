@@ -1,5 +1,5 @@
 # CampusPigskinRank
-## A machine learning approach for anointing a proper college football's national championship
+## A machine learning approach for anointing college football's national championship
 ### Motivation
 Most people tend to believe that we'll be able to use computerized and human logic to crack the S&P 500 before we consistently slay the dragon that is calculating college football's most worthy matchup for the national championship, primarily in the Bowl Championship Series era. Perhaps to solve this, the current College Football Playoff format uses a consensus of a human panel, without computer rankings. Much to the contrary of most fans, media members and followers of the sport, I actually **favored** the now-defunct [BCS](https://en.wikipedia.org/wiki/Bowl_Championship_Series), the formula that was created in an attempt to declare a national champion for the Football Bowl Subdivision (_nee_, "NCAA Division I"). 
 
