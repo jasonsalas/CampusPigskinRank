@@ -25,4 +25,4 @@ However, I'm prematurely skeptical about the ability to generate such features, 
 The code is built on top of Google's [TensorFlow](https://www.tensorflow.org/) machine learning framework, and written in Python.
 
 ___
-_I'm an [author](https://www.amazon.com/Designing-Developing-Google-Glass-Differently/dp/1491946458/), [sportscaster](https://plus.google.com/+JasonSalas/posts/UCHTyZLJ2y9), and product manager in Guam. I know software, sports, movies, music, the 80s...and not much else. Find him on [Twitter](https://twitter.com/jasonsalas), [Facebook](https://www.facebook.com/jasonsalas) and [LinkedIn](https://www.linkedin.com/in/jasonsalas671)_
+_I'm a product manager, [author](https://www.amazon.com/Designing-Developing-Google-Glass-Differently/dp/1491946458/) and [sportscaster](https://plus.google.com/+JasonSalas/posts/UCHTyZLJ2y9) in Guam. I know software, sports, movies, music, marketing, the 80s...and not much else. Find him on [Twitter](https://twitter.com/jasonsalas), [Facebook](https://www.facebook.com/jasonsalas) and [LinkedIn](https://www.linkedin.com/in/jasonsalas671)_
